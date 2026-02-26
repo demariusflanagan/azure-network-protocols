@@ -19,7 +19,7 @@ Project consists of a concise script that allows the user to format their USB dr
 
 <h2>High-Level Steps</h2>
 
-- Launch Powershell as Administrator 
+- Launch Powershell ISE as Administrator 
 - Use formatting script format-volume
 - Input drive letter
 - Select file system
@@ -27,7 +27,8 @@ Project consists of a concise script that allows the user to format their USB dr
 
 <h2>Actions and Observations</h2>
 
-<p>
+<p>![IMG_1446](https://github.com/user-attachments/assets/9f12e956-cd42-495a-b782-beb5882d0d65)
+ Launch Windows Powershell ISE, though it must be run as administrator for this specific formatting to work effectively.
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
