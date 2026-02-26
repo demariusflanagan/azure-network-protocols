@@ -19,10 +19,11 @@ Project consists of a concise script that allows the user to format their USB dr
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Launch Powershell as Administrator 
+- Use formatting script format-volume
+- Input drive letter
+- Select file system
+- Run script and format drive
 
 <h2>Actions and Observations</h2>
 
