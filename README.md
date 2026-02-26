@@ -27,7 +27,8 @@ Project consists of a concise script that allows the user to format their USB dr
 
 <h2>Actions and Observations</h2>
 
-<p>![IMG_1446](https://github.com/user-attachments/assets/9f12e956-cd42-495a-b782-beb5882d0d65)
+![IMG_1446](https://github.com/user-attachments/assets/3637c672-ba4a-4b06-aa29-de3f598ca609)
+
  Launch Windows Powershell ISE, though it must be run as administrator for this specific formatting to work effectively.
 
 </![IMG_1447](https://github.com/user-attachments/assets/bffbcb21-33a6-4215-8d19-e5ed30963ee3)
@@ -37,24 +38,29 @@ Once the system is launched input the script format-volume.
 After format-volume is inputted as a script, the next step would be to identify the specific drive letter and input that into the script.
 ![IMG_1448](https://github.com/user-attachments/assets/9e297e5e-d5b5-4ffe-a984-fea693da2b0f)
 
+![IMG_1449](https://github.com/user-attachments/assets/588c592e-a9a5-4964-b08c-778eb66b2b69)
+After identifying and correctly inputting the drive letter, the next part of the script is to select the file system using -Filesystem
+![IMG_1450](https://github.com/user-attachments/assets/bcf40743-e19f-4586-8fdb-4d739ac89bdf)
+Lastly, in order to finish the script and ensure an effectively formatted drive using the Powershell application select the file system NTFS
+![IMG_1451](https://github.com/user-attachments/assets/984278f5-9e9d-44af-a2ac-9a4b053dab7d)
+Run the system and wait patiently for completion.
+![IMG_1452](https://github.com/user-attachments/assets/af741552-3513-4953-a7f8-11b1d993bf6e)
+Once completed ensure that the drive data has been properly formatted by checking the USB in the folder, if empty the script was run successfully and you have properly formatted a USB drive using Powershell.
+</p>
+<br />
 
+<p>
+
+</p>
 <p>
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
