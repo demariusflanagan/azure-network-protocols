@@ -9,12 +9,13 @@ Project consists of a concise script that allows the user to format their USB dr
 <h2>Environments and Technologies Used</h2>
 
 - Powershell
+- USB Drive
 
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- 
+  
 
 <h2>High-Level Steps</h2>
 
