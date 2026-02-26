@@ -35,7 +35,7 @@ Project consists of a concise script that allows the user to format their USB dr
 Once the system is launched input the script format-volume.
 ![IMG_1453](https://github.com/user-attachments/assets/b29ad189-b11a-4482-b052-d61391bc7c08)
 
-After format-volume is inputted as a script, the next step would be to identify the specific drive letter and input that into the script.
+After format-volume is inputted as a script, the next step would be to implement -Driveletter into the script, and then identifying the specific drive letter of your USB and inputting that into the script.
 ![IMG_1448](https://github.com/user-attachments/assets/9e297e5e-d5b5-4ffe-a984-fea693da2b0f)
 
 ![IMG_1449](https://github.com/user-attachments/assets/588c592e-a9a5-4964-b08c-778eb66b2b69)
