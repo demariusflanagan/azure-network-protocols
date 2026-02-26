@@ -3,8 +3,8 @@
 
 <h1>Formatting A USB Drive Using Powershell In Windows</h1>
 
-
-
+<h2>Description<h2>
+Project consists of a concise script that allows the user to format their USB drive instantaneously. Though this can be done manually this utiliy allots for mass conversion of many USB drives. This format script connects many file systems through the usage of Powershell, as it will configure a script formatting the data of any drive, through simple steps.
 
 <h2>Environments and Technologies Used</h2>
 
