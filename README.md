@@ -42,9 +42,13 @@ After format-volume is inputted as a script, the next step would be to implement
 After identifying and correctly inputting the drive letter, the next part of the script is to select the file system using -Filesystem
 ![IMG_1450](https://github.com/user-attachments/assets/bcf40743-e19f-4586-8fdb-4d739ac89bdf)
 Lastly, in order to finish the script and ensure an effectively formatted drive using the Powershell application select the file system NTFS
-![IMG_1451](https://github.com/user-attachments/assets/984278f5-9e9d-44af-a2ac-9a4b053dab7d)
+
+![IMG_1452](https://github.com/user-attachments/assets/d2eb2e20-80f6-49ae-9801-c170a329a159)
+
 Run the system and wait patiently for completion.
-![IMG_1452](https://github.com/user-attachments/assets/af741552-3513-4953-a7f8-11b1d993bf6e)
+
+![IMG_1451](https://github.com/user-attachments/assets/4f14b6d5-04f4-4b5b-b2ac-6b8edad38ba2)
+
 Once completed ensure that the drive data has been properly formatted by checking the USB in the folder, if empty the script was run successfully and you have properly formatted a USB drive using Powershell.
 </p>
 <br />
